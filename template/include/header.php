@@ -20,3 +20,5 @@
         </nav>
         <h3 class="text-muted"><?php echo SITE_NAME; ?></h3>
       </div>
+
+    <?php displayMessage(); ?>
